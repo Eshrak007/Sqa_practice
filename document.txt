@@ -2,3 +2,6 @@ Hello!
 I am Mir Mohaiminul Islam. I am 25 years old. I am a Trainee SQA Engineer at BJIT. Everyday I have tolarate boring lecture of the mentor. Only common training session is good I think. I want to do technical work rather than faul theory class. 
 
 In my past I first try to learn Laravel but I can't get success. Now I moved to SQA .Lets see what happen.
+
+
+			The end
